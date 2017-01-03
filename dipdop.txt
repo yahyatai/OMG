@@ -1,4 +1,4 @@
-while ( !not_tired)
+while ( !not_died)
 {
 	move LEFT;
 	move RIGHT;
