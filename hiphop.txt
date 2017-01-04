@@ -1,0 +1,7 @@
+while ( !not_tired)
+{
+	move LEFT;
+	move RIGHT;
+	jump UP;
+	remain on GROUND;
+} 
